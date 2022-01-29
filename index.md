@@ -5,6 +5,8 @@ layout: default
 
 Fraud detection in financial sector is a very critical function for the healthy state of any Fintech company.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PM-SoI/fraud_detection)
+
 # Project-2: Risk Analysis
 
 Presently working on it.
